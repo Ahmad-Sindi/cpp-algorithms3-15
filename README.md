@@ -21,11 +21,12 @@ The user provides a target number, and the algorithm scans the entire matrix to 
 🧩 Example
 -
 Matrix:
+
 5  5  2  
 2  9  5  
 4  7  5  
 
-Input:
+Input:  
 5
 
 Output:
